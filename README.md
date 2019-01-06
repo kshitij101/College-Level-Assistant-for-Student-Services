@@ -1,7 +1,22 @@
 # CLASS
-College Level Assistant for Student Services
-CLASS - COLLEGE LEVEL ASSISTANT FOR STUDENT SERVICES
+COLLEGE LEVEL ASSISTANT FOR STUDENT SERVICES
 -----------------------------------------------------------
+All in one solution for managing college related student activites
+Attendance
+Syllabus Completion
+Mock Tests
+Notes
+Notices
+Timetable
+Messages
+Grade prediction 
+Feedback
+Blog
+
+
+
+
+
 !!README FILE!!
 
 Steps for Installation:
