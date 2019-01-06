@@ -1,0 +1,634 @@
+<form>
+    <div class="section"><span>1</span>Uniform coverage of Syllabus.</div>
+    <div class="inner-wrap">
+        
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+
+    </div>
+
+    <div class="section"><span>2</span>Explaination of the Subject by relating it to practical examples.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>3</span>Communication skill, delivery, explanation of the subject.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>4</span>Use of black board, teaching aids (projector / OHP) for teaching.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>5</span>Creating interest about the subject and encouraging discussion.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>6</span>Timely assessment of Term work, Test etc.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>7</span>Development of confidence and preparation for examination.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+
+    <div class="section"><span>8</span>Counselling, motivation for self learning and extending help.</div>
+    <div class="inner-wrap">
+<table>
+<tr>
+
+	<th>
+<label>sub1</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+
+	<th>
+<label>sub2</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub3</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub4</label>
+    <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub5</label>
+   <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+	<th>
+<label>sub6</label>
+     <select name="field4" class="field-select">
+<option value="" style="display: none"></option>
+        <option value="Excellent">Excellent</option>
+        <option value="Good">Good</option>
+        <option value="Satisfactory">Satisfactory</option>
+<option value="Need Improvements">Need Improvements</option>
+        <option value="Poor">Poor</option>
+        </select>
+	</th>
+</tr>
+</table>
+    </div>
+
+    <div class="section"><span>9</span>office</div>
+        <div class="inner-wrap">
+         <select name="field4" class="field-select">
+        <option value="Advertise">Advertise</option>
+        <option value="Partnership">Partnership</option>
+        <option value="General Question">General</option>
+        </select>
+    </div>
+
+    <div class="section"><span>10</span>Coments</div>
+    <div class="inner-wrap">
+         <label> <textarea name="field2"></textarea></label>
+    </div>
+    <div class="button-section">
+     <input type="submit" name="Submit" />
+    </div>
+</form>
